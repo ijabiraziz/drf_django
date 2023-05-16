@@ -1,9 +1,11 @@
 # drf_django
 I have created api using djangorestframework.
-First install djangorestframework using pip 1.e,
-pip install djangorestframework
-Next step is to add 'rest_framework' inside installed_app(go to setting.py of the main project)
-I have preferred to use function-based views rather than class-based views.
+
+
+- First install djangorestframework using pip 1.e,
+- pip install djangorestframework
+- Next step is to add 'rest_framework' inside installed_app(go to setting.py of the main project)
+- I have preferred to use function-based views rather than class-based views.
 
 
 
